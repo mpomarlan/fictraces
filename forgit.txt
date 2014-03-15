@@ -1,0 +1,173 @@
+by B. Corp
+
+We had a discussion on a forum thread over at <a href="http://www.critiquecircle.com">CC</a> about what we might want to post in the coming days.  How about, asked <strong>Sarah F.</strong>, a "theme week": pick some topic, and have us share opinions about it in each of our blog posts for that week. <strong>Keith M.</strong> then made several suggestions for possible topics, most to do about characters, and we eventually decided on the thing we are about to embark on today. (And why not, characters are a fertile subject. We've had <a href="http://wp.me/p4iTAS-98">a post about character creation</a>, it inspired <a href="http://wp.me/p4iTAS-a9">a response on this blog</a>, which in turn elicited <a href="kathleensawisky.com/2014/03/10/in-which-the-mic-has-been-dropped/">a response on a blog not affiliated with any of the regulars</a> ;))
+
+So, starting today and going on for the next week, each of us regulars will write some kind of character description of someone from our WiPs. This exercise was left rather free form, at the discretion of each blogger. Maybe someone wants to do a character sheet, or post some passages from the WiP, or do a kind of Q&amp;A with the character, or have the commenters pitch in for a character interview (not sure a blog is the best venue for that last one, but hey).
+
+Maybe one of us wants to show a character, the finished building as it were; someone else might prefer to show the scaffolding, the process by which they came to the character, the rewrites, the assimilation of critical feedback. Or maybe someone wants to show just how miserable life is with all these weird people in our heads :P
+
+The point is to get a character across, but also present the process of characterization as experienced by several writers, over the course of one blogging week. Should be interesting. Watch this space!
+
+Well, and that's it for the intro, let's head over to the Sunday installment of character week. It will be a longish post, so see you after the read more link.
+
+<!--more-->
+
+The WiP I'll talk about is "Driving Ms. Shaw" (hereafter called DMS). Disclaimer: it's fanfic (and credit where it is due, the inspirations are <a href="http://www.imdb.com/title/tt1446714/?ref_=nv_sr_1">Prometheus</a>/<a href="http://www.imdb.com/title/tt0090605/?ref_=nv_sr_2">Aliens</a>/<a href="http://www.amazon.com/Roadside-Picnic-Rediscovered-Classics-Strugatsky/dp/1613743416/ref=sr_1_1?ie=UTF8&amp;qid=1394877362&amp;sr=8-1&amp;keywords=Roadside+Picnic">Roadside Picnic</a>/<a href="http://www.amazon.com/Beetle-Anthill-Soviet-Science-Fiction/dp/0026151200/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1394877436&amp;sr=1-1&amp;keywords=Beetle+in+the+anthill">Noon Universe</a>/<a href="http://en.wikipedia.org/wiki/William_Blake%27s_mythology">William Blake Mythos</a>).
+
+Well then, let's meet Bishop, an android fresh out of a Weyland-Yutani Corporation factory, when he gets a mission from his handler.
+<blockquote>"Is the nature of the work classified?" Bishop asks.
+
+"You catch on fast, don't you."
+
+Bishop smiles for a moment- an appropriate response to what hopefully was just lighthearted banter. He reminds himself not to seem too clever in the future. Too clever is threatening, and threatening gets scrapped.</blockquote>
+Bishop is at once his name and the name of the android type he is.
+<blockquote>"Wanna know something funny," Burke says. "On that ship I'm flying with there's a Bishop just like you."
+
+Bishop frowns for the tiniest moment. "Same model, sir?"
+
+"Yeah. Well, almost. Job for the military that one, but we've been less careful with removing network interfacing hardware. Oops." Burke laughs again. "Don't tell anyone."
+
+"I will not be casual with this information," Bishop says. So then. Another like him. Well, no surprise there, there are hundreds of thousands like him. The number makes what passes for his stomach turn. Curious human mimic reaction, as if emptying his reserves of repair fluids would somehow change reality. And the one thing to set him apart from the mass of copies is a handicap.</blockquote>
+The handicap being, W-Y made this particular Bishop without netcom hardware, for extra security of info. ("A-ha, Bland, a flaw!" Yeah, much like being hard of hearing is a character flaw :P)
+
+The mission is to spy on Elizabeth Shaw while pretending to assist her social reintegration. She's been recovered from deep space you see; she left Earth in 2092, it's 2177, the world's changed a lot meanwhile. She was on an expedition Weyland sent to find the aliens that allegedly interfered with ancient human history, but she claims the expedition perished before discovering anything.
+<blockquote>[Burke] "Take a good look at that face. It's the face of a liar."
+
+[Bishop] "Sir?"
+
+"Quite a story she told those ICC goons. Cryosleep for eighty five years - it just doesn't add up. If she had been in cryo for that long, she'd be a mess of tumors by now."
+
+"I didn't notice any mention of cancer in her file."
+
+"Exactly."
+
+"And she hasn't been confronted about this?"
+
+Burke coughs. "Here's where it gets sensitive. Technically, the cryo chambers we produce should- I'm saying should- mitigate the effects of radioactive decay over decades. But let's just say they are not as efficient as we tell everyone else they are."
+
+"So we're lying too?"
+
+"That's not important right now."</blockquote>
+So anyway, Bishop gets the mission, Burke leaves, and we see a brief assessment of Burke from Bishop, followed by
+<blockquote>What about Elizabeth then? He studies her file again- and her photo. Nervous and curious he judged her to have been, an explorer both eager and afraid to set out and find her answers. A liar, Burke said. A danger, the life protection module in his mind warns.
+
+Behavioral programs clash inside him. Don't waste time, find her, question her, the loyalty module demands. But life protection demands instead to not take chances, talk to the closest [COMCON] agent and tell them to keep Elizabeth in quarantine forever. The competing pressures cancel each other out. They make him rush in different directions, so he feels no need to rush anywhere. Interesting. He lets the modules bicker in his mind and stays put instead, thinking of Elizabeth. Liar, opportunity, threat- all these outside voices seem very keen to tell him how to label her.
+
+Any space left for the Bishop module to say anything?</blockquote>
+How about we meet Elizabeth now?
+<blockquote>So he rings again. [on Elizabeth's quarantine apartment door]
+
+"Who is it?"
+
+A woman's voice through the intercom, her accent so old-fashioned it doesn't seem English anymore. If anything, she sounds Swedish, maybe.
+
+And definitely annoyed.
+
+"Excuse me, Ms. Shaw. My name is Bishop. I've been sent by the Weyland-Yutani Corporation to help with your social reintegration."
+
+A brief pause precedes her answer.
+
+"I thought you were the nurse. Go away."
+
+"Please Ms. Shaw. I understand your situation has been quite stressful, but I assure you I am competent to assist with your every need."
+
+The face of a petite woman appears on the video-screen near the intercom. The same face as in the picture on the file from Burke, but now her eyes seem less eager to take in everything. She doesn't just look tired, though wrinkles attest to her lack of sleep. There is something of an existential exhaustion about her gaze, as if she found the answers she had sought, and more. Much more than she wanted. A necklace with a cross hangs on her neck.</blockquote>
+I thought it would be interesting to write some scenes from different perspectives. Here's the previous bit, Elizabeth POV this time.
+<blockquote>The door rings again.
+
+She presses the interphone button. "Who is it?"
+
+"Excuse me, Ms. Shaw. My name is Bishop. I've been sent by the Weyland-Yutani Corporation to help with your social reintegration."
+
+Weyland-Yutani? What do they want with her?
+
+"I thought you were the nurse," she says. "Go away."
+
+"Please Ms. Shaw. I understand your situation has been quite stressful, but I assure you I am competent to assist with your every need."
+
+She presses another button to take a look at her visitor. No gas mask, nor other hazmat gear, and yet he walks through the quarantine section of Gateway station.
+
+A synthetic.
+
+"My every need, you say." She raises an eyebrow. "All right. Fetch me a newspaper."
+
+"Like these?" he says, lifting a pack of several dailies and almanacs.
+
+She studies him, and his offering, on the interphone screen. It seems synthetic design has changed too. No more soft, almost androgynous features. Were they concerned she'd be too scared of a face like David's? How would they know? Instead, there is a ruggedness to this synthetic's face, augmented by two almost scar-like folds of skin running across each of his cheeks, but undercut by a high forehead and large eyes. It's as if whoever thought him up didn't want him to look too tough and menacing. But he's a Weyland agent. That's all she needs to know about the threat, and no face can disguise that.</blockquote>
+I'm not going for a Rashomon here. On one website, you get the Bishop POV. On another, you get the Elizabeth POV. I've yet to decide which I use for a 'final' version. But as you can see in her POV, W-Y is right to suspect Elizabeth. She IS hiding something. And she definitely does NOT want W-Y to get to it first.
+
+So anyway, the characters have a brief chit chat, at some point during which Elizabeth opens one of the almanacs Bishop brought.
+<blockquote>Her browsing stops for a moment. Something on a page must have caught her eye and for an instant she resembles that anxious and curious woman on the file cover again. The moment passes quickly; she tries to pretend it didn't happen, but he noticed it. And the article- something about the Impact Zone in Russia. He hadn't expected anything beyond mild interest to the materials he brought, they were simply meant to give her a quick summary of some of Earth's history in her absence. But this was a lucky find. It will need more investigation.
+
+"I'm glad you find the almanac informative," he says.
+
+Not one beat skipped before she replies. "Anything about the Ripley case here?"</blockquote>
+Same thing, her perspective. Remember, she's from high tech 2092; paper almanacs are a new thing to her.
+<blockquote id="c_16">The pages of the almanac turn beneath her eyes; she might get the hang of how to use these things, even if she does not feel like reading it just-
+
+A title catches her eye. The Impact Zone. Several images, even if grainy, show things she recognizes from places far from Earth. They shouldn't be, yet here they are in the middle of the Russian tundra. Colloidal gas pockets; gravitational concentrates; webs of frozen plasma. Is she too late? Damn that malfunctioning distress beacon, she should have been found decades ago. But at least there is no picture there of- Wait. He's watching, and through his eyes so does Weyland. She turns the page.
+
+"I'm glad you find the almanac informative," he says.
+
+Damn it, he noticed. Divert. "Anything about the Ripley case here?"</blockquote>
+Again, the final version will have only one of the POVs for this scene, but it helps me, I think, be focused on their game of cat and mouse to write from both perspectives.
+
+Who's the cat though is uncertain.
+<blockquote>She turns the page, to an article about the Bishop line of androids.
+
+"Wow," she says, "this looks just like you!"
+
+His cheeks tighten. Another reaction from the not quite emotionless synthetic. This might be her chance to pick his brain apart.
+
+"It is you, isn't it?" she says, relishing how he seems to occupy less space all of a sudden.
+
+"That is indeed one of the Bishop line," he finally answers in what sounds like an even tone.
+
+But she knows better. She knows what button to push now.
+
+"I couldn't tell you two apart. Are you all named Bishop?"
+
+"That is the standard."
+
+"I'll have to think of a name for you. What would you like?"
+
+"Bishop will do."
+
+"Think of something, or I will." She chuckles, relishing how his eyes seem to widen for a second. "I wonder what else it says in here about you."</blockquote>
+Same moment, Bishop's perspective.
+<blockquote>He is about to resume [..] when she interrupts him.
+
+"Wow," she says, "this looks just like you!"
+
+His cheeks tighten. While Cosmographic is a great source of generalist information, bringing this particular issue might have been ill advised.
+
+"It is you, isn't it?" She shows him a page on the almanac. There is a grin on her face that fits both 'playful' and 'wicked' emotional descriptors, which reminds him to be more poker faced himself, or else risk revealing his weakness to her. If somehow she hasn't formed a hypothesis already.
+
+"That is indeed one of the Bishop line." He straightens his shoulders and forces himself to keep eye contact.
+
+"I couldn't tell you two apart. Are you all named Bishop?"
+
+"That is the standard."
+
+"I'll have to think of a name for you then. What would you like?"
+
+"Bishop will do."
+
+"Think of something else, or I will." Elizabeth chuckles. "I wonder what else it says in here about you."</blockquote>
+There's a bit more back-n-forth, and with your permission each character's conclusion about their first encounter.
+<blockquote>Potentially fruitful. Several hypotheses suggest themselves for inquiry. The Russian Impact Zone- he will have to inform himself about that. Ripley's case also seems related, but given what Burke said of his schedule, [Ripley] and Burke have already left for the LV-426 colony. Then there's Elizabeth's last comment, it doesn't seem meant just about Ripley. Bring evidence ... of what? Whatever it is, Elizabeth doesn't appear to have brought any. Maybe he looks for more in this one comment than there is to find.
+
+Cleansing fluids streak over his synthetic skin, too corrosive for a human, tolerable for artificials. They bubble and steam from his body in noxious yellow fumes, but the experience only looks unpleasant. It's somewhere else that he experienced unpleasant today. He might know something of her, but she discovered something of him too. A weakness he didn't realize he had. Unfortunate. But one plays their cards as dealt. All that matters is who plays better.</blockquote>
+And now the other.
+<blockquote>What do you think she, Ripley, should have done, he asked her. It cut her to the core, for she doesn't know what she herself should do next. This shouldn't have played out like this. She should have been found sooner, and the world shouldn't have looked like the stone age in space, and there should have been more time ...
+
+He's seen through her. Not all, thank God, maybe not even much, but enough to be dangerous. At least she got to see through him as well. After all, he's a robot. She can handle those. It's all the rest that worries her. The Earth is now a large cloudy ball in her viewport. She will have to go there soon. Better prepare. By the end of the day, she will have read all that Bishop brought her. Two articles she'll learn by heart. About the Russian Impact Zone. About Bishop.</blockquote>
+And that's just (bits of) half of ch1 :P, but the rest of the chapter introduces even more antagonists for our sparring duo. There's COMCON, an organization tasked with space travel regulations. Incidentally, they also guard the Russian Impact Zone where Elizabeth wants to go. They get a whiff that something's strange with Elizabeth, even if they don't know what yet.
+
+Then there's a mysterious entity (*cough*Urizen*cough*Big Bad*cough*) that also feels threatened and will throw most of the spanners to our protags. There's a couple twists about Urizen; suffice to say, it's not what Elizabeth wanted to warn humanity about and turns out to be rather an anti-villain. But the shadows lengthen- certainly this post did- and that will be enough from me.
+
+What do you think? Specific comments, questions, complaints about the passages or characters are welcome, and if you wanted to spend even more time with this story and critique it, awesome, contact me!
+
+General comments welcome too. In particular, POV and rewriting the same scene from several perspectives. Did you do that? Did it help? Do you do it routinely? How do you select what stays in the final version and what stays on the cutting room floor? Do you have a trick to 'steal' the good stuff even from perspectives you don't use in the final version?
+
+(PS: this post also on github.com so I can trace who wrote it- me- and when. Unfair use of fragments therein will result in discovering that I have a particular set of skills. I will find you. And I will <del>kill</del> sue you.)
